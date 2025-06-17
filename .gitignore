@@ -5,7 +5,7 @@ __pycache__/
 *.py[cod]
 
 # Virtual environment
-env/
+backend/env/
 
 # Django stuff
 *.sqlite3
